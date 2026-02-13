@@ -1,0 +1,16 @@
+# Data & Large Datasets
+*.parquet
+*.csv
+/data/
+/downloads/
+
+# Python/Environment
+__pycache__/
+.venv/
+.env
+*.pyc
+
+# OS/IDEs
+.DS_Store
+.vscode/
+.idea/
